@@ -1,9 +1,9 @@
 1. creaun archivo html con nombre cifrado cesar
 2. crea un archivo app.js
-3. vincula el archivo htm con js
-4. crea una funcion llamada caesar cipher que te pida dos valors un string y un
+3. vincula el archivo html con js
+4. Si el usuario ingresa campo vacio o numbers return "Favor de ingresar datos validos"
+5. Crea una funcion llamada caesar cipher que te pida dos valors un string y un
 numero fijo  en que contara a contar la posicion del alfabeto para decifrarlo
-5. Si el usuario ingresa campo vacio o numbers return "Favor de ingresar datos validos"
 6. Utilizando if y for  y  el codigo usando letras mayusculas
 no olvides utilizaar la formula de Michel (x+n) %26
 8. Utilizando else if y for decifra el codigo usando letras minusculas
