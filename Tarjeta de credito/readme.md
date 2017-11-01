@@ -20,3 +20,6 @@ puedo usar for
 A todos los numeros que ocupan las posiciones pares se les debe multiplicar por
 dos y si el doble de ese numero es mayor o igual a 10 debemos de sumar los digitos
 del resultado.
+
+[Diagrama de flujo]
+ (file:///C:/Users/Corei3/Documents/laboratoria-proyectos/sprint1/final-proyect-test/cifrado%20cesar/TARJETA%20DE%20CREDITO.png)

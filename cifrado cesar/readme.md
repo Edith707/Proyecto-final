@@ -20,3 +20,6 @@ no olvides utilizaar la formula de Michel (x+n) %26
         Tu programa debe ser capaz de cifrar y descifrar tanto letras mayúsculas como minúsculas. La fórmula para descifrar es: (x - n) % 26
         Tu código debe estar compuesto por 2 funciones con los siguientes nombres: cipher y decipher
         El usuario no debe poder ingresar un campo vacío o que contenga números
+
+[Diagrama de flujo Cifrado cesar]
+(file:///C:/Users/Corei3/Documents/laboratoria-proyectos/sprint1/final-proyect-test/cifrado%20cesar/CIFRADO%20CESAR.png)
